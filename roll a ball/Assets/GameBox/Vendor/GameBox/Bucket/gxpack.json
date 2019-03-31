@@ -1,0 +1,12 @@
+{
+    "name": "GameBox.Bucket",
+    "description": "GameBox Bucket 是组件管理更新程序",
+    "keywords": [ "gamebox", "bucket" , "framework" ],
+    "icon": "http://gitlab.ztgame.com/tech/Client/GameBox/Releases/GameBox.Bucket/raw/master/favicon.png",
+    "tags" : ["gamebox", "bucket" , "framework"],
+    "license": "MIT",
+    "type": "project",
+    "required": {
+        "GameBox.BucketSupport": ">=0.1.0"
+    }
+}

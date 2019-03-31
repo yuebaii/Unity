@@ -1,0 +1,4 @@
+{
+    "host": "http://api.gxpack.ztgame.com.cn",
+    "hide": [ "GameBox.Bucket", "GameBox.TestBucket" , "GameBox.BucketSupport" ]
+}
